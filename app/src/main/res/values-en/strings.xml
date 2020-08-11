@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Local</string>
+    <string name="btn_text">Translate</string>
+    <string name="text_text_view">This text is for translation</string>
+    <string-array name="languages">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+
+</resources>
